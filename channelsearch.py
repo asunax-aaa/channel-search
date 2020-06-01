@@ -14,7 +14,7 @@ class ChannelSearch:
 
     def __init__(self, auth, user_agent):
         """
-        [auth] - Your discord authentication token, this is mainly aimed at user accounts and not bots.
+        [auth] - Your discord authentication token, this is only for user accounts.
         [user_agent] Your discord client user agent.
         """
 
